@@ -140,7 +140,7 @@ body { background-color: #fff; padding: 20px; }
 
   #myQuiz { width: 320px; background-size: 320px auto; }
   #myQuiz h1 { width: 300px; font-size: 1.3em; top: 25px; left: 25px; }
-  #myQuiz h1 span {line-height: 43px; }
+  #myQuiz h1 span {line-height: 45px; }
   #myQuiz h2 { margin: 0px; }
   #myQuiz h3 { margin: 2.2em; margin-bottom: 15px; }
 
