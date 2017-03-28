@@ -53,7 +53,7 @@ $http.get('quiz_data.json').then(function(quizData){
         // dynamically creates link to email and twitter that will be customized with user results
         $scope.createShareLinks = function(percentage){
 
-          var url = 'http://mreynoldsportfolio.com';
+          var url = 'https://margier.github.io/Space-Quiz/';
 
           var emailLink = '<a class="btn email" href="mailto:">Email a friend</a>';
 
