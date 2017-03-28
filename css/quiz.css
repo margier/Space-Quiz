@@ -146,7 +146,7 @@ body { background-color: #fff; padding: 20px; }
 
   #myQuiz .progress { width: 300px; top: 110px; left: 25px; }
   #myQuiz .progress div { width: 25px; height: 25px; margin-right: 20px; }
-  #myQuiz .progress div::after { top: -30px; width: 53px; height: 28px; }
+  #myQuiz .progress div::after { top: -30px; width: 53px; height: 33px; }
   #myQuiz .intro { width: 300px; top: 135px; left: 330px; }
 
   #myQuiz .question { width: 300px; top: 135px; left: 330px; }
